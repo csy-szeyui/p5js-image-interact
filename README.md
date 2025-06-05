@@ -4,6 +4,8 @@ An interface for image interaction with the user's index finger captured with th
 
 Coding assignment for one of my college courses.
 
+8/12/2024
+
 # How to Use
 
 Click this link below and start the program by pressing the "Start sketch" button.
